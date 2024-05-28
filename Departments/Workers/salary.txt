@@ -1,0 +1,7 @@
+Rohit = 1344000
+Mayank = 130000
+Aman = 10000
+Ashish = 900000
+Manik = 3000
+Akshay = 30000
+Anchal = 15000
